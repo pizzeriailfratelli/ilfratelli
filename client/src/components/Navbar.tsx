@@ -116,7 +116,7 @@ export default function Navbar() {
             <button className="nav-link" onClick={() => goTo("/nosotros")}>Nosotros</button>
             <button className="nav-link" onClick={() => scrollToSection("contacto")}>Contacto</button>
             <a
-              href="https://wa.me/5491154964833?text=Hola%2C%20quiero%20pedir%20pizzas%20Il%20Fratelli"
+              href="https://wa.me/541129580073?text=Hola%2C%20quiero%20pedir%20pizzas%20Il%20Fratelli"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary"
@@ -222,7 +222,7 @@ export default function Navbar() {
           Contacto
         </button>
         <a
-          href="https://wa.me/5491154964833?text=Hola%2C%20quiero%20pedir%20pizzas%20Il%20Fratelli"
+          href="https://wa.me/541129580073?text=Hola%2C%20quiero%20pedir%20pizzas%20Il%20Fratelli"
           target="_blank"
           rel="noopener noreferrer"
           className="btn-primary"

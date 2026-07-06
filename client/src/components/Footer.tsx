@@ -146,7 +146,7 @@ export default function Footer() {
                 pizzeriailfratelli@gmail.com
               </a>
               <a
-                href="tel:+541154964833"
+                href="tel:+541129580073"
                 style={{
                   color: "rgba(245,240,232,0.6)",
                   fontSize: "0.875rem",
@@ -157,10 +157,10 @@ export default function Footer() {
                 onMouseEnter={(e) => (e.currentTarget.style.color = "var(--brand-cream)")}
                 onMouseLeave={(e) => (e.currentTarget.style.color = "rgba(245,240,232,0.6)")}
               >
-                +54 11 5496-4833
+                +54 11 2958-0073
               </a>
               <a
-                href="https://wa.me/5491154964833"
+                href="https://wa.me/541129580073"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
