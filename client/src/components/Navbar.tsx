@@ -91,7 +91,7 @@ export default function Navbar() {
             aria-label="Il Fratelli - Inicio"
           >
             <img
-              src="/manus-storage/il-fratelli-logo-transparent_e35319ab.png"
+              src="/manus-storage/il-fratelli-logo-fondo-transparente_551fdf0f.png"
               alt="Il Fratelli"
               style={{
                 height: "52px",
