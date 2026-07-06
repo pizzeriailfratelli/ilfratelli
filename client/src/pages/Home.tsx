@@ -35,17 +35,17 @@ const pizzas = [
   {
     name: "Margherita",
     desc: "Salsa de tomate, mozzarella, oliva, albahaca",
-    img: "/manus-storage/pizza-margherita_0c097dc5.png",
+    img: "/manus-storage/pizza-margherita-product_c38ef54c.png",
   },
   {
     name: "Pesto",
     desc: "Salsa de tomate, mozzarella, queso verde de ajo rallado, oliva, pesto de albahaca",
-    img: "/manus-storage/pizza-pesto_58240e2f.png",
+    img: "/manus-storage/pizza-pesto-product_fb6ef1cc.png",
   },
   {
     name: "Jamón Crudo",
     desc: "Salsa de tomate, oliva, jamón crudo de Parma",
-    img: "/manus-storage/pizza-jamon-crudo_f1d909bb.png",
+    img: "/manus-storage/pizza-jamon-product_80a2cdc0.png",
   },
 ];
 
