@@ -136,7 +136,7 @@ function PizzaCard({ pizza, delay = 0 }: { pizza: typeof allPizzas[0]; delay?: n
           {pizza.desc}
         </p>
         <a
-          href={`https://wa.me/541129580073?text=Hola%2C%20quiero%20consultar%20el%20precio%20de%20la%20pizza%20${encodeURIComponent(pizza.name)}%20de%20Il%20Fratelli`}
+          href={`https://wa.me/541128590037?text=Hola%2C%20quiero%20consultar%20el%20precio%20de%20la%20pizza%20${encodeURIComponent(pizza.name)}%20de%20Il%20Fratelli`}
           target="_blank"
           rel="noopener noreferrer"
           className="btn-primary"

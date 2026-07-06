@@ -71,7 +71,7 @@ const faqs = [
   },
   {
     q: "¿Cómo puedo hacer un pedido?",
-    a: "Podés contactarnos por WhatsApp al +54 11 2958-0073 o por email a pizzeriailfratelli@gmail.com. Te respondemos a la brevedad.",
+    a: "Podés contactarnos por WhatsApp al +54 11 2859-0037 o por email a pizzeriailfratelli@gmail.com. Te respondemos a la brevedad.",
   },
   {
     q: "¿Hacen envíos?",
@@ -182,7 +182,7 @@ function PizzaCard({ pizza, delay = 0 }: { pizza: typeof pizzas[0]; delay?: numb
         </p>
         <div style={{ display: "flex", gap: "0.75rem", flexWrap: "wrap" }}>
           <a
-            href="https://wa.me/541129580073?text=Hola%2C%20quiero%20consultar%20el%20precio%20de%20la%20pizza%20Il%20Fratelli"
+            href="https://wa.me/541128590037?text=Hola%2C%20quiero%20consultar%20el%20precio%20de%20la%20pizza%20Il%20Fratelli"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary"
@@ -819,7 +819,7 @@ export default function Home() {
               Ver Nuestros Productos
             </button>
             <a
-              href="https://wa.me/541129580073?text=Hola%2C%20quiero%20pedir%20pizzas%20Il%20Fratelli"
+              href="https://wa.me/541128590037?text=Hola%2C%20quiero%20pedir%20pizzas%20Il%20Fratelli"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-outline"
