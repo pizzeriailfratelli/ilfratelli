@@ -41,13 +41,12 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <img
-              src="/manus-storage/il-fratelli-logo-new_abdf93f6.png"
+              src="/manus-storage/il-fratelli-logo-transparent_e35319ab.png"
               alt="Il Fratelli"
               style={{
                 height: "64px",
                 width: "64px",
                 objectFit: "contain",
-                borderRadius: "50%",
                 marginBottom: "1rem",
               }}
             />
