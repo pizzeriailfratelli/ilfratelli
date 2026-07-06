@@ -235,8 +235,8 @@ export default function About() {
               },
               {
                 num: "03",
-                title: "Pasión",
-                body: "Cada pizza es hecha con amor y dedicación, como si fuera para nuestra propia familia.",
+                title: "Tiempo",
+                body: "Pensamos en un producto de larga duración para que lo puedas congelar por hasta 6 meses.",
               },
             ].map((val, i) => {
               const ref = useReveal();

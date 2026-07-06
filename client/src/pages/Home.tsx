@@ -596,7 +596,7 @@ export default function Home() {
           >
             <div ref={ingredRef} className="reveal">
               <p className="section-number" style={{ marginBottom: "1rem" }}>
-                03 — Ingredientes de Calidad
+                02 — Ingredientes de Alta Calidad
               </p>
               <h2
                 className="display-headline"

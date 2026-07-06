@@ -31,37 +31,37 @@ const allPizzas = [
   {
     name: "Margherita",
     desc: "Salsa de tomate, mozzarella, oliva, albahaca",
-    img: "/manus-storage/pizza-margherita_0c097dc5.png",
+    img: "/manus-storage/pizza-margherita-product_c38ef54c.png",
     tag: "Clásica",
   },
   {
     name: "Pesto",
     desc: "Salsa de tomate, mozzarella, queso verde de ajo rallado, oliva, pesto de albahaca",
-    img: "/manus-storage/pizza-pesto_58240e2f.png",
+    img: "/manus-storage/pizza-pesto-product_fb6ef1cc.png",
     tag: "Especial",
   },
   {
     name: "Jamón Crudo",
     desc: "Salsa de tomate, oliva, jamón crudo de Parma",
-    img: "/manus-storage/pizza-jamon-crudo_f1d909bb.png",
+    img: "/manus-storage/pizza-jamon-product_80a2cdc0.png",
     tag: "Premium",
   },
   {
     name: "Fugazzeta",
     desc: "Mozzarella, cebolla blanca y morada, oliva",
-    img: "/manus-storage/pizza-fugazzeta_3854752b.png",
+    img: "/manus-storage/pizza-fugazzeta-product_0db79ab2.png",
     tag: "Argentina",
   },
   {
     name: "Pepperoni",
     desc: "Salsa de tomate, mozzarella, pepperoni, oliva, salsa diavola de la casa",
-    img: "/manus-storage/pizza-pepperoni_8398ee18.png",
+    img: "/manus-storage/pizza-pepperoni-product_29ff7f59.png",
     tag: "Picante",
   },
   {
     name: "Dos Quesos",
     desc: "Salsa de tomate, oliva, mozzarella, parmesano rallado",
-    img: "/manus-storage/pizza-dos-quesos_ee49b3b5.png",
+    img: "/manus-storage/pizza-dos-quesos-product_931a4fe2.png",
     tag: "Especial",
   },
 ];
